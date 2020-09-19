@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">yana</string>
+    
+    <string-array name="fuelType">
+        <item>Auto Diesel</item>
+        <item>Super Diesel</item>
+        <item>Petrol 95 Octane</item>
+        <item>Petrol 92 Octane</item>
+        <item>Furnace Oil 800</item>
+        <item>Fuel Oil Super</item>
+        <item>Furnace Oil 1500</item>
+        <item>Furnace Oil 1500 High Sulphur</item>
+        <item>Furnace Oil 3500</item>
+    </string-array>
+</resources>
